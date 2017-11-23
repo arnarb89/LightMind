@@ -1,5 +1,5 @@
 # LightMind
-This is a Java application I started as a school project but I worked at it all following summer. It is a mindmap creation software with a lot of features.
+This is a Java application I started as a school project but I worked at it all following summer. It is a mindmap creation software with a lot of features. Link to executable file: https://notendur.hi.is/abs41/LightMind.jar
 
 Create, move og delete bubbles. Can apply operations on many bubbles at once where applies.
 
